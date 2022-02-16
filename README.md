@@ -1,6 +1,4 @@
-# Hi there 👋
-
-## Works
+## Work history
 
 [Game8 Inc.](https://game8.co.jp/) / [Five Needs Inc.](https://www.fiveneeds.co.jp/) / [Nomura Securities Co., Ltd.](https://www.nomuraholdings.com/company/group/nsc/)
 
