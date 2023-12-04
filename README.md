@@ -9,3 +9,7 @@
 ## Websites
 
 [umihi.co](https://umihi.co) / [PortfolioHub](https://portfoliohub.umihi.co/) / [umihico.com](https://umihico.com)
+
+## Resume
+
+[職務経歴書 (Japanese)](https://github.com/umihico/umihico/blob/main/resume_2023-12-01.pdf)
