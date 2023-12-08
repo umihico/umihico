@@ -12,4 +12,4 @@
 
 ## Resume
 
-[職務経歴書 (Japanese)](https://github.com/umihico/umihico/blob/main/resume_2023-12-01.pdf)
+[職務経歴書 (Japanese)](https://github.com/umihico/umihico/blob/main/resume.pdf)
