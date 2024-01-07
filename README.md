@@ -13,3 +13,8 @@
 ## Resume
 
 [職務経歴書 (Japanese)](https://github.com/umihico/umihico/blob/main/resume.pdf)
+
+## Contact Me
+
+- [Message via Google form](https://forms.gle/vqRefzPfNWzukxLG7)
+- [Schedule Google Meet by eeasy](https://meeting.eeasy.jp/umihico/online)
