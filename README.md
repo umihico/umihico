@@ -4,7 +4,7 @@
 
 ## Socials
 
-[GitHub](https://github.com/umihico) / [Twitter](https://twitter.com/umihico_)[[2nd]](https://twitter.com/umihico101) / [Facebook](https://www.facebook.com/umihiko.iwasa/) / [Qiita](https://qiita.com/umihico) / [Connpass](https://connpass.com/user/umihico/) / [Wantedly](https://www.wantedly.com/id/umihico) / [Lapras](https://lapras.com/public/umihico) / [Linkedin](https://www.linkedin.com/in/umihico) / [Credly](https://www.credly.com/users/umihico-iwasa/badges) / [Amazon](https://www.amazon.co.jp/hz/wishlist/ls/2ZAH4THRD7OWL) / [Terraform](https://registry.terraform.io/namespaces/umihico) / [PyPi](https://pypi.org/user/umihico) / [DockerHub](https://hub.docker.com/u/umihico) / [Zenn](https://zenn.dev/umihico) / [Reddit](https://www.reddit.com/user/umihic) / [Speakerdeck](https://speakerdeck.com/umihico) / [Gist](https://gist.github.com/umihico)
+[GitHub](https://github.com/umihico) / [X](https://twitter.com/umihico_)[[2nd]](https://twitter.com/umihico101) / [Facebook](https://www.facebook.com/umihiko.iwasa/) / [Qiita](https://qiita.com/umihico) / [Connpass](https://connpass.com/user/umihico/) / [Wantedly](https://www.wantedly.com/id/umihico) / [Lapras](https://lapras.com/public/umihico) / [Linkedin](https://www.linkedin.com/in/umihico) / [Credly](https://www.credly.com/users/umihico-iwasa/badges) / [Amazon](https://www.amazon.co.jp/hz/wishlist/ls/2ZAH4THRD7OWL) / [Terraform](https://registry.terraform.io/namespaces/umihico) / [PyPi](https://pypi.org/user/umihico) / [DockerHub](https://hub.docker.com/u/umihico) / [Zenn](https://zenn.dev/umihico) / [Reddit](https://www.reddit.com/user/umihic) / [Speakerdeck](https://speakerdeck.com/umihico) / [Gist](https://gist.github.com/umihico)
 
 ## Websites
 
@@ -16,5 +16,5 @@
 
 ## Contact Me
 
-- [Message via Google form](https://forms.gle/vqRefzPfNWzukxLG7)
+- [Message via Google Form](https://forms.gle/vqRefzPfNWzukxLG7)
 - [Schedule Google Meet by eeasy](https://meeting.eeasy.jp/umihico/online)
