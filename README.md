@@ -1,6 +1,6 @@
 ## Work history
 
-[Game8 Inc.](https://game8.co.jp/) / [Five Needs Inc.](https://www.fiveneeds.co.jp/) / [Nomura Securities Co., Ltd.](https://www.nomuraholdings.com/company/group/nsc/)
+[Studio Prairie Inc.](https://corp.studio-prairie.com/) / [Game8 Inc.](https://game8.co.jp/) / [Five Needs Inc.](https://www.fiveneeds.co.jp/) / [Nomura Securities Co., Ltd.](https://www.nomuraholdings.com/company/group/nsc/)
 
 ## Socials
 
@@ -17,4 +17,4 @@
 ## Contact Me
 
 - [Message via Google Form](https://forms.gle/vqRefzPfNWzukxLG7)
-- [Schedule Google Meet by eeasy](https://meeting.eeasy.jp/umihico/online)
+- [Schedule Google Meet by eeasy](https://meeting.eeasy.jp/umihiko-iwasa/online)
